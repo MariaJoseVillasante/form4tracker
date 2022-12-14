@@ -71,3 +71,4 @@ gem 'alphavantagerb'
 
 gem "byebug", "~> 11.1"
 ##gem 'tzinfo-data'
+gem "webpacker"

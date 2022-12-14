@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 EDITOR="atom --wait" rails credentials:edit
+
+https://www.amcharts.com/download/
